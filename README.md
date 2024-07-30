@@ -1,4 +1,4 @@
-#ElecKart Business Operation Optimization using Market Mix Modelling
+# ElecKart Business Operation Optimization using Market Mix Modelling
 
 ## Objective
 Analyze the Financial Situation and Marketing Results
